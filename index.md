@@ -14,38 +14,41 @@ I recived my B.Eng. degree from [Wuhan University of Technology](http://english.
 
 <div style="clear:both;"></div>
 
-## Publications
+## Publications 
+
+\* Denotes equal contribution.
 
 <img align="left" src="{{ site.baseurl }}/images/iros19.png" style="float:left;height:120px;width:120px;margin-right: 10px">
  **Time-Optimal Trajectory Generation for DynamicVehicles: A Bilevel Optimization Approach**  
- Gao Tang<sup>*</sup>, **Weidong Sun<sup>*</sup>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+ Gao Tang<sup>*</sup>, **<u> Weidong Sun<sup>*</sup></u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
  Preprint  
  [PDF]
  [Code]
  [Video]
  [Slides]
-
+<div style="clear:both;"></div>
 ---
 
 <img align="left" src="{{ site.baseurl }}/images/tro.png" style="float:left;height:120px;width:120px;margin-right: 10px">
- **Fast UAV Trajectory Optimization using BilevelOptimization with Analytical Gradients**  
- **Weidong Sun<sup>*</sup>**, Gao Tang<sup>*</sup>, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
- arXiv  
+ **Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients**  
+ **<u> Weidong Sun<sup>*</sup></u>**, Gao Tang<sup>*</sup>, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+ IEEE Transactions on Robotics [under reivew]  
  [[PDF]](https://arxiv.org/pdf/1811.10753.pdf)
  [Code]
  [Video]
  [Slides]
-
+<div style="clear:both;"></div>
 ---
 
 <img align="left" src="{{ site.baseurl }}/images/iros18.png" style="float:left;height:120px;width:120px;margin-right: 10px">
  **Learning Trajectories for Real-Time Optimal Control of Quadrotors**  
- Gao Tang, __**Weidong Sun**__, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+ Gao Tang, **Weidong Sun**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
  IROS 2018  
  [[PDF]](http://motion.pratt.duke.edu/papers/IROS2018-Tang-LearningOptimalControl.pdf)
  [Code]
  [[Video]](https://www.youtube.com/watch?v=h0yY0sAGzwk)
  [Slides]
+
 
 <div style="clear:both;"></div>
 

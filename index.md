@@ -11,6 +11,8 @@ I am pursuing a masters degree at [Duke University](https://www.duke.edu/), wher
 
 I recived my B.Eng. degree from [Wuhan University of Technology](http://english.whut.edu.cn/).
 
+Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
+
 
 <div style="clear:both;"></div>
 
@@ -20,7 +22,7 @@ I recived my B.Eng. degree from [Wuhan University of Technology](http://english.
 
 <img align="left" src="{{ site.baseurl }}/images/iros19.png" style="float:left;height:120px;width:120px;margin-right: 10px">
  **Time-Optimal Trajectory Generation for DynamicVehicles: A Bilevel Optimization Approach**  
- Gao Tang<sup>*</sup>, **<u> Weidong Sun<sup>*</sup></u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+ [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, **<u> Weidong Sun<sup>*</sup></u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
  Preprint  
  [PDF]
  [Code]
@@ -31,7 +33,7 @@ I recived my B.Eng. degree from [Wuhan University of Technology](http://english.
 
 <img align="left" src="{{ site.baseurl }}/images/tro.png" style="float:left;height:120px;width:120px;margin-right: 10px">
  **Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients**  
- **<u> Weidong Sun<sup>*</sup></u>**, Gao Tang<sup>*</sup>, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+ **<u> Weidong Sun<sup>*</sup></u>**, [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
  IEEE Transactions on Robotics [under reivew]  
  [[PDF]](https://arxiv.org/pdf/1811.10753.pdf)
  [Code]
@@ -42,7 +44,7 @@ I recived my B.Eng. degree from [Wuhan University of Technology](http://english.
 
 <img align="left" src="{{ site.baseurl }}/images/iros18.png" style="float:left;height:120px;width:120px;margin-right: 10px">
  **Learning Trajectories for Real-Time Optimal Control of Quadrotors**  
- Gao Tang, **<u>Weidong Sun</u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+ [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), **<u>Weidong Sun</u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
  IROS 2018  
  [[PDF]](http://motion.pratt.duke.edu/papers/IROS2018-Tang-LearningOptimalControl.pdf)
  [Code]
@@ -54,4 +56,4 @@ I recived my B.Eng. degree from [Wuhan University of Technology](http://english.
 
 ## Contact
 
-[weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
+Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)

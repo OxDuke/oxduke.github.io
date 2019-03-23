@@ -6,13 +6,14 @@ title: Weidong Sun
 ## About
 
 <img align="left" src="{{ site.baseurl }}/images/me.jpeg" style="float:left;height:200px;width:200px;border-radius: 10%;margin-right: 20px">
-I am pursuing a masters degree at [Duke University](https://www.duke.edu/), where I work on robotic motion planning and optimal control at the [Intelligent Motion Laboratory](http://motion.pratt.duke.edu/)
-
-
+I am pursuing a masters degree at [Duke University](https://www.duke.edu/), where I work on robotic motion planning and optimal control at the [Intelligent Motion Laboratory](http://motion.pratt.duke.edu/). 
 I recived my B.Eng. degree from [Wuhan University of Technology](http://english.whut.edu.cn/).
 
 Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
 
+[[GitHub]](https://github.com/oxduke)
+[[LinkedIn]](https://www.linkedin.com/in/weidong-sun-953264129/)
+[[Google Scholar]](https://scholar.google.com/citations?user=yYTIc8UAAAAJ&hl=en)
 
 <div style="clear:both;"></div>
 

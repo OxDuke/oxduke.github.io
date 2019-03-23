@@ -42,7 +42,7 @@ I recived my B.Eng. degree from [Wuhan University of Technology](http://english.
 
 <img align="left" src="{{ site.baseurl }}/images/iros18.png" style="float:left;height:120px;width:120px;margin-right: 10px">
  **Learning Trajectories for Real-Time Optimal Control of Quadrotors**  
- Gao Tang, **Weidong Sun**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+ Gao Tang, **<u>Weidong Sun</u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
  IROS 2018  
  [[PDF]](http://motion.pratt.duke.edu/papers/IROS2018-Tang-LearningOptimalControl.pdf)
  [Code]

@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Weidong Sun
+title: About
 ---
 
 ## About
@@ -54,6 +54,9 @@ Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
 
 
 <div style="clear:both;"></div>
+
+## Workshop and Posters
+
 
 ## Contact
 

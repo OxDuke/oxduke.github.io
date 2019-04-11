@@ -11,6 +11,9 @@ description: Robot enthusiast
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/pillowcreem.jpg
 
+# Icon is the small figure that appears on the tab
+icon: /images/pillowcreem.jpg
+
 #
 # Flags below are optional
 #

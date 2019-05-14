@@ -47,4 +47,5 @@ A collection of tutorials/books/reading lists/courses that might help.
 - Technical Writing
 	* [Common Errors in Technical Writing](https://www.ece.ucdavis.edu/~jowens/commonerrors.html) by John Owens.
 	* [LaTex Templates](https://github.com/OxDuke/latex_templates) by [Stephen Boyd](http://web.stanford.edu/~boyd/).
+	* [Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf) by Kunth et al..
 

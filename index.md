@@ -24,7 +24,7 @@ Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
 ### Journal & Conferences
 
 <img align="left" src="{{ site.baseurl }}/images/iros19.png" style="float:left;height:120px;width:120px;margin-right: 10px">
- **Time-Optimal Trajectory Generation for DynamicVehicles: A Bilevel Optimization Approach**  
+ **Time-Optimal Trajectory Generation for Dynamic Vehicles: A Bilevel Optimization Approach**  
  [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, **<u> Weidong Sun<sup>*</sup></u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
  Preprint  
  [PDF]
@@ -59,9 +59,10 @@ Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
 
 ### Workshop and Posters
 <img align="left" src="{{ site.baseurl }}/images/iros19.png" style="float:left;height:120px;width:120px;margin-right: 10px">
- **Time-Optimal Trajectory Generation for DynamicVehicles: A Bilevel Optimization Approach**  
+ **Time-Optimal Trajectory Generation for Dynamic Vehicles: A Bilevel Optimization Approach**  
  [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, **<u> Weidong Sun<sup>*</sup></u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
- ICRA 2019 workshop on Toward Online Optimal Control of Dynamic Robots
+ ICRA 2019 workshop on  
+ Toward Online Optimal Control of Dynamic Robots  
  [PDF]
  [Code]
  [Video]
@@ -69,10 +70,11 @@ Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
 <div style="clear:both;"></div>
 ---
 
-<img align="left" src="{{ site.baseurl }}/images/tro.png" style="float:left;height:120px;width:120px;margin-right: 10px">
+<img align="left" src="{{ site.baseurl }}/images/icra19-ws1.png" style="float:left;height:120px;width:120px;margin-right: 10px">
  **Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients**  
  **<u> Weidong Sun<sup>*</sup></u>**, [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
- ICRA 2019 Workshop on The Future of Aerial Robotics: Challenges and Opportunities  
+ ICRA 2019 Workshop on  
+ The Future of Aerial Robotics: Challenges and Opportunities  
  [[PDF]](https://arxiv.org/pdf/1811.10753.pdf)
  [Code]
  [Video]

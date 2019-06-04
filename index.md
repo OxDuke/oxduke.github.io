@@ -58,27 +58,26 @@ Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
 <div style="clear:both;"></div>
 
 ### Workshop and Posters
-<img align="left" src="{{ site.baseurl }}/images/iros19.png" style="float:left;height:120px;width:120px;margin-right: 10px">
+<img align="left" src="{{ site.baseurl }}/images/iros19.png" style="float:left;height:120px;width:120px;margin-right:10px;margin-bottom:10px">
  **Time-Optimal Trajectory Generation for Dynamic Vehicles: A Bilevel Optimization Approach**  
  [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, **<u> Weidong Sun<sup>*</sup></u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
- ICRA 2019 workshop on  
- Toward Online Optimal Control of Dynamic Robots  
- [PDF]
- [Code]
- [Video]
- [Slides]
+ Presentation, ICRA 2019 workshop on  
+ [Toward Online Optimal Control of Dynamic Robots](http://www.rsl.ethz.ch/scientific-events/workshops/ICRA-2019/online-optimal-control.html)  
+ [[PDF]]({{ site.baseurl }}/publications/ICRA2019_WS2_paper.pdf)
+ [[Poster]]({{ site.baseurl }}/publications/ICRA2019_WS2_poster.pdf)
+ [[Slides]]({{ site.baseurl }}/publications/ICRA2019_WS2_slides.pdf)
+ <!--[[Powerpoint]]({{ site.baseurl }}/publications/2019_ICRA_WS2_slides.pptx)-->
 <div style="clear:both;"></div>
 ---
 
 <img align="left" src="{{ site.baseurl }}/images/icra19-ws1.png" style="float:left;height:120px;width:120px;margin-right: 10px">
- **Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients**  
+ **Fast UAV Trajectory Generation Using Bilevel Optimization**  
  **<u> Weidong Sun<sup>*</sup></u>**, [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
- ICRA 2019 Workshop on  
- The Future of Aerial Robotics: Challenges and Opportunities  
- [[PDF]](https://arxiv.org/pdf/1811.10753.pdf)
- [Code]
- [Video]
- [Slides]
+ Presentation, ICRA 2019 Workshop on  
+ [The Future of Aerial Robotics: Challenges and Opportunities](https://www.aerial-robotics-workshop.com/)  
+ [[PDF]]({{ site.baseurl }}/publications/ICRA2019_WS1_paper.pdf)
+ [[Slides]]({{ site.baseurl }}/publications/ICRA2019_WS1_slides.pdf)
+ <!--[[Powerpoint]]({{ site.baseurl }}/publications/2019_ICRA_WS1_slides.pptx)-->
 <div style="clear:both;"></div>
 ---
 

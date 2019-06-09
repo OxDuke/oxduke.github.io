@@ -13,8 +13,8 @@ A collection of tutorials/books/reading lists/courses that might help.
 	* Tools
 		* [A great tutorial for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 	
-
 - Courses:
+    * [Course of Study from CMU](https://www.ri.cmu.edu/wp-content/uploads/2018/08/COSAug2018.pdf)
 	* Optimization
 		* [Stephen Boyd's home page](https://stanford.edu/~boyd/people.html).
     
@@ -33,12 +33,12 @@ A collection of tutorials/books/reading lists/courses that might help.
 	* State estimation
 
 - Thesis
-	PhD/Master thesis tends to be a very good portal to a specific research topic. Here is a collection of what might help.
+	PhD/Master thesis tend to be very good portals to a specific research topics. Here is a collection of what might help.
 	* OSQP is a pretty fast QP solver, which is also a good application of the ADMM algorithm
 	[ADMM]
 
 - Surveys
-	* * [An introduction on mixed-integer nonlinear optimization](https://www.mcs.anl.gov/papers/P3060-1112.pdf) by Pietro Belotti et al..
+	* [An introduction on mixed-integer nonlinear optimization](https://www.mcs.anl.gov/papers/P3060-1112.pdf) by Pietro Belotti et al..
 
 - Reading Lists
 	* [Readling list on manipulation](https://nima-fazeli.github.io/Reading%20List/) by Nima Frazeli.

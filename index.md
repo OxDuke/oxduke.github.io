@@ -26,7 +26,7 @@ Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
 <img align="left" src="{{ site.baseurl }}/images/iros19.png" style="float:left;height:120px;width:120px;margin-right: 10px">
  **Time-Optimal Trajectory Generation for Dynamic Vehicles: A Bilevel Optimization Approach**  
  [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, **<u> Weidong Sun<sup>*</sup></u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
- Preprint  
+ IROS 2019 (Accepted)  
  [PDF]
  [Code]
  [Video]

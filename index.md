@@ -38,7 +38,7 @@ Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
  **Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients**  
  **<u> Weidong Sun<sup>*</sup></u>**, [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
  IEEE Transactions on Robotics [under reivew]  
- [[PDF]](https://arxiv.org/pdf/1811.10753.pdf)
+ [[PDF](https://arxiv.org/pdf/1811.10753.pdf)]
  [Code]
  [Video]
  [Slides]
@@ -49,9 +49,9 @@ Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
  **Learning Trajectories for Real-Time Optimal Control of Quadrotors**  
  [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), **<u>Weidong Sun</u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
  IROS 2018  
- [[PDF]](http://motion.pratt.duke.edu/papers/IROS2018-Tang-LearningOptimalControl.pdf)
+ [[PDF](http://motion.pratt.duke.edu/papers/IROS2018-Tang-LearningOptimalControl.pdf)]
  [Code]
- [[Video]](https://www.youtube.com/watch?v=h0yY0sAGzwk)
+ [[Video](https://www.youtube.com/watch?v=h0yY0sAGzwk)]
  [Slides]
 
 
@@ -63,9 +63,9 @@ Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
  [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, **<u> Weidong Sun<sup>*</sup></u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
  Presentation, ICRA 2019 workshop on  
  [Toward Online Optimal Control of Dynamic Robots](http://www.rsl.ethz.ch/scientific-events/workshops/ICRA-2019/online-optimal-control.html)  
- [[PDF]]({{ site.baseurl }}/publications/ICRA2019_WS2_paper.pdf)
- [[Poster]]({{ site.baseurl }}/publications/ICRA2019_WS2_poster.pdf)
- [[Slides]]({{ site.baseurl }}/publications/ICRA2019_WS2_slides.pdf)
+ [[PDF]({{ site.baseurl }}/publications/ICRA2019_WS2_paper.pdf)]
+ [[Poster]({{ site.baseurl }}/publications/ICRA2019_WS2_poster.pdf)]
+ [[Slides]({{ site.baseurl }}/publications/ICRA2019_WS2_slides.pdf)]
  <!--[[Powerpoint]]({{ site.baseurl }}/publications/2019_ICRA_WS2_slides.pptx)-->
 <div style="clear:both;"></div>
 ---
@@ -75,8 +75,8 @@ Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
  **<u> Weidong Sun<sup>*</sup></u>**, [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
  Presentation, ICRA 2019 Workshop on  
  [The Future of Aerial Robotics: Challenges and Opportunities](https://www.aerial-robotics-workshop.com/)  
- [[PDF]]({{ site.baseurl }}/publications/ICRA2019_WS1_paper.pdf)
- [[Slides]]({{ site.baseurl }}/publications/ICRA2019_WS1_slides.pdf)
+ [[PDF]({{ site.baseurl }}/publications/ICRA2019_WS1_paper.pdf)]
+ [[Slides]({{ site.baseurl }}/publications/ICRA2019_WS1_slides.pdf)]
  <!--[[Powerpoint]]({{ site.baseurl }}/publications/2019_ICRA_WS1_slides.pptx)-->
 <div style="clear:both;"></div>
 ---

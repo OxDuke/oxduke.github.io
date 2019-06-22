@@ -11,9 +11,9 @@ I received my B.Eng. degree from [Wuhan University of Technology](http://english
 
 Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
 
-[[GitHub]](https://github.com/oxduke)
-[[LinkedIn]](https://www.linkedin.com/in/weidong-sun-953264129/)
-[[Google Scholar]](https://scholar.google.com/citations?user=yYTIc8UAAAAJ&hl=en)
+[[GitHub](https://github.com/oxduke)]
+[[LinkedIn](https://www.linkedin.com/in/weidong-sun-953264129/)]
+[[Google Scholar](https://scholar.google.com/citations?user=yYTIc8UAAAAJ&hl=en)]
 
 <div style="clear:both;"></div>
 

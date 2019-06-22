@@ -6,8 +6,8 @@ title: About
 ## About
 
 <img align="left" src="{{ site.baseurl }}/images/me.jpeg" style="float:left;height:200px;width:200px;border-radius: 10%;margin-right: 20px">
-I am pursuing a masters degree at [Duke University](https://www.duke.edu/), where I work on robotic motion planning and optimal control at the [Intelligent Motion Laboratory](http://motion.pratt.duke.edu/). 
-I recived my B.Eng. degree from [Wuhan University of Technology](http://english.whut.edu.cn/).
+I am Robotics enthusiast, I received the M.Eng degree from [Duke University](https://www.duke.edu/), where I work on robotic motion planning and optimal control at the [Intelligent Motion Laboratory](http://motion.pratt.duke.edu/). 
+I received my B.Eng. degree from [Wuhan University of Technology](http://english.whut.edu.cn/).
 
 Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
 

@@ -30,12 +30,13 @@ A collection of tutorials/books/reading lists/courses that might help.
 		* [Numerical Optimization](https://www.amazon.com/Numerical-Optimization-Operations-Financial-Engineering/dp/0387303030/ref=sr_1_1?keywords=numerical+optimization&qid=1555876008&s=gateway&sr=8-1) by Jorge Nocedal and Wright.
 		* [Convex Optimization](https://www.amazon.com/Convex-Optimization-Corrections-2008-Stephen/dp/0521833787/ref=sr_1_1?keywords=convex+optimization&qid=1555876044&s=gateway&sr=8-1) by Stephen Boyd and L. Vandenberghe.
 	* Motion Planning
-	* State estimation
+	* State Estimation
 
 - Thesis
 	PhD/Master thesis tend to be very good portals to a specific research topics. Here is a collection of what might help.
 	* OSQP is a pretty fast QP solver, which is also a good application of the ADMM algorithm
 	[ADMM]
+	* [ECOS](https://www.research-collection.ethz.ch/handle/20.500.11850/74559), an embedded interior-point solver.
 
 - Surveys
 	* [An introduction on mixed-integer nonlinear optimization](https://www.mcs.anl.gov/papers/P3060-1112.pdf) by Pietro Belotti et al..

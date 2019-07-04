@@ -43,7 +43,7 @@ __[Duke University](https://www.duke.edu/)__
 
 `Sep. 2013 - Jun. 2017`
 __[Wuhan University of Technology](http://english.whut.edu.cn/)__
-- B.Eng. in Mechanical Engineering. GPA:88.58/100
+- B.Eng. Mechanical Engineering. GPA: 88.58/100
 - Graduated with distinction
 
 
@@ -57,13 +57,13 @@ __[Wuhan University of Technology](http://english.whut.edu.cn/)__
 
 ### IROS'19
 Time-Optimal Trajectory Generation for Dynamic Vehicles: A Bilevel Optimization Approach  
-[Gao Tang<sup>\*</sup>](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), __W. Sun<sup>*</sup>__, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)    
+[G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, __W. Sun<sup>*</sup>__, and [K. Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)    
 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems  
 [ To appear ] 
 
 ### ICRA'19 Workshop
 Fast UAV Trajectory Generation Using Bilevel Optimization  
-__Weidong Sun<sup>*</sup>__, [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+__W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [K. Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
 Presentation, 2019 IEEE International Conference on Robotics and Automation  
 Workshop on <span style="color:green">[The Future of Aerial Robotics: Challenges and Opportunities](https://www.aerial-robotics-workshop.com/)</span>  
 [ <span style="color:CornflowerBlue">[PDF]({{ site.baseurl }}/publications/ICRA2019_WS2_paper.pdf)</span> ]
@@ -72,7 +72,7 @@ Workshop on <span style="color:green">[The Future of Aerial Robotics: Challenges
 
 ### ICRA'19 Workshop
 Time-Optimal Trajectory Generation for Dynamic Vehicles: A Bilevel Optimization Approach  
-G. Tang<sup>\*</sup>, __W. Sun<sup>*</sup>__, and K. Hauser  
+[G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, __W. Sun<sup>*</sup>__, and K. Hauser  
 Presentation, 2019 IEEE International Conference on Robotics and Automation  
 Workshop on <span style="color:green">[Toward Online Optimal Control of Dynamic Robots](http://www.rsl.ethz.ch/scientific-events/workshops/ICRA-2019/online-optimal-control.html)</span>  
  [ <span style="color:CornflowerBlue">[PDF]({{ site.baseurl }}/publications/ICRA2019_WS2_paper.pdf)</span> ]
@@ -82,7 +82,7 @@ Workshop on <span style="color:green">[Toward Online Optimal Control of Dynamic 
 ### Preprint'18 
 
 Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients  
-__Weidong Sun<sup>*</sup>__, [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+__W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [K. Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
 IEEE Transactions on Robotics [under reivew]  
 [ <span style="color:CornflowerBlue">[PDF](https://arxiv.org/pdf/1811.10753.pdf)</span> ]
 [ <span style="color:CornflowerBlue">[Code](https://github.com/OxDuke/Bilevel-Planner)</span> ]  
@@ -90,7 +90,7 @@ IEEE Transactions on Robotics [under reivew]
 
 ### IROS'18
 [Learning Trajectories for Real-Time Optimal Control of Quadrotors](http://motion.pratt.duke.edu/papers/IROS2018-Tang-LearningOptimalControl.pdf)  
-G. Tang, __W. Sun__, and K. Hauser  
+[G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), __W. Sun__, and [K. Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems  
 [ <span style="color:CornflowerBlue">[PDF](http://motion.pratt.duke.edu/papers/IROS2018-Tang-LearningOptimalControl.pdf)</span> ]
 [ <span style="color:CornflowerBlue">[Video](https://www.youtube.com/watch?v=h0yY0sAGzwk)</span> ]

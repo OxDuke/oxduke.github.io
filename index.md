@@ -9,7 +9,7 @@ title: About
 I received the M.Eng. degree from [Duke University](https://www.duke.edu/), where I worked on robotic motion planning and optimal control at the [Intelligent Motion Laboratory](http://motion.pratt.duke.edu/). 
 I received my B.Eng. degree from [Wuhan University of Technology](http://english.whut.edu.cn/).
 
-Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
+Email: [weidong.sun@alumni.duke.edu](mailto:weidong.sun@alumni.duke.edu)
 
 [[GitHub](https://github.com/oxduke)]
 [[LinkedIn](https://www.linkedin.com/in/weidong-sun-953264129/)]
@@ -84,4 +84,4 @@ Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
 
 ## Contact
 
-Email: [weidong.sun@duke.com](mailto:weidong.sun@duke.edu)
+Email: [weidong.sun@alumni.duke.edu](mailto:weidong.sun@alumni.duke.edu)

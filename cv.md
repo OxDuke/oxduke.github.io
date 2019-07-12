@@ -99,9 +99,9 @@ IEEE Transactions on Robotics [under reivew]
 
 ## Code
 
-Bilevel Planner: [ [Code](https://github.com/OxDuke/Bilevel-Planner) ]
-OSQP helper: Helper functions for [OSQP](https://osqp.org/) [ [Code](https://github.com/OxDuke/osqp_helper) ]
-eprintf: Printf function for embedded systems [ [Code](https://github.com/OxDuke/eprintf) ]
+Bilevel Planner: [ [Code](https://github.com/OxDuke/Bilevel-Planner) ]  
+OSQP helper: Helper functions for [OSQP](https://osqp.org/) [ [Code](https://github.com/OxDuke/osqp_helper) ]  
+eprintf: Printf function for embedded systems [ [Code](https://github.com/OxDuke/eprintf) ]  
 
 
 

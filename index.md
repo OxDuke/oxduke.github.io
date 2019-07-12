@@ -39,7 +39,7 @@ Email: [weidong.sun@alumni.duke.edu](mailto:weidong.sun@alumni.duke.edu)
  **<u> Weidong Sun<sup>*</sup></u>**, [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
  IEEE Transactions on Robotics [under reivew]  
  [[PDF](https://arxiv.org/pdf/1811.10753.pdf)]
- [Code]
+ [[Code](https://github.com/OxDuke/Bilevel-Planner)]
  [Video]
  [Slides]
 <div style="clear:both;"></div>

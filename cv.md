@@ -31,6 +31,10 @@ motion planning, optimal control
 // Cooling, power series, optics, alchemy, planetary motions, apples.
 -->
 
+## Currently
+
+Working for [XYZ Robotics Inc](https://www.xyzrobotics.ai/).
+
 ## Education
 
 `Aug. 2017 - Jul. 2019`

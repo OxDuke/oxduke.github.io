@@ -33,7 +33,7 @@ motion planning, optimal control
 
 ## Currently
 
-Working for [XYZ Robotics Inc](https://www.xyzrobotics.ai/).
+Working at [XYZ Robotics Inc](https://www.xyzrobotics.ai/).
 
 ## Education
 

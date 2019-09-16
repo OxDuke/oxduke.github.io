@@ -41,7 +41,7 @@ Working at [XYZ Robotics Inc](https://www.xyzrobotics.ai/).
 __[Duke University](https://www.duke.edu/)__
 - M.Eng. Mechanical Engineering, Robotics. GPA: 3.89/4.0
 - Sponsored by the China Scholarship Council (CSC)  
-- Advisor: [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+- Advisor: [Kris Hauser](http://kkhauser.web.illinois.edu/)  
 
 
 
@@ -59,20 +59,21 @@ __[Wuhan University of Technology](http://english.whut.edu.cn/)__
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Preprint'20
-Enhancing Bilevel Optimization for UAV Time-Optimal Trajectoryusing a Duality Gap Approach  
-[G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), __W. Sun__, and [K. Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)    
-2020 International Conference on Robotics and Automation (ICRA)  
-[ Submitted ] 
+Enhancing Bilevel Optimization for UAV Time-Optimal Trajectory using a Duality Gap Approach  
+[G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), __W. Sun__, and [K. Hauser](http://kkhauser.web.illinois.edu/)    
+Submitted to 2020 International Conference on Robotics and Automation (ICRA)  
+[ PDF ] 
 
 ### IROS'19
 Time-Optimal Trajectory Generation for Dynamic Vehicles: A Bilevel Optimization Approach  
-[G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, __W. Sun<sup>*</sup>__, and [K. Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)    
+[G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, __W. Sun<sup>*</sup>__, and [K. Hauser](http://kkhauser.web.illinois.edu/)    
 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems  
-[ To appear ] 
+[ <span style="color:CornflowerBlue">[PDF](http://motion.cs.illinois.edu/papers/IROS2019-Tang-BilevelTrajectoryGeneration.pdf)</span> ]
+
 
 ### ICRA'19 Workshop
 Fast UAV Trajectory Generation Using Bilevel Optimization  
-__W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [K. Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+__W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [K. Hauser](http://kkhauser.web.illinois.edu/)  
 Presentation, 2019 IEEE International Conference on Robotics and Automation  
 Workshop on <span style="color:green">[The Future of Aerial Robotics: Challenges and Opportunities](https://www.aerial-robotics-workshop.com/)</span>  
 [ <span style="color:CornflowerBlue">[PDF]({{ site.baseurl }}/publications/ICRA2019_WS2_paper.pdf)</span> ]
@@ -91,7 +92,7 @@ Workshop on <span style="color:green">[Toward Online Optimal Control of Dynamic 
 ### Preprint'18 
 
 Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients  
-__W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [K. Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+__W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [K. Hauser](http://kkhauser.web.illinois.edu/)  
 IEEE Transactions on Robotics [under reivew]  
 [ <span style="color:CornflowerBlue">[PDF](https://arxiv.org/pdf/1811.10753.pdf)</span> ]
 [ <span style="color:CornflowerBlue">[Code](https://github.com/OxDuke/Bilevel-Planner)</span> ]  
@@ -99,7 +100,7 @@ IEEE Transactions on Robotics [under reivew]
 
 ### IROS'18
 [Learning Trajectories for Real-Time Optimal Control of Quadrotors](http://motion.pratt.duke.edu/papers/IROS2018-Tang-LearningOptimalControl.pdf)  
-[G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), __W. Sun__, and [K. Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+[G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), __W. Sun__, and [K. Hauser](http://kkhauser.web.illinois.edu/)  
 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems  
 [ <span style="color:CornflowerBlue">[PDF](http://motion.pratt.duke.edu/papers/IROS2018-Tang-LearningOptimalControl.pdf)</span> ]
 [ <span style="color:CornflowerBlue">[Video](https://www.youtube.com/watch?v=h0yY0sAGzwk)</span> ]

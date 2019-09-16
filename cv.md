@@ -58,6 +58,11 @@ __[Wuhan University of Technology](http://english.whut.edu.cn/)__
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
+### Preprint'20
+Enhancing Bilevel Optimization for UAV Time-Optimal Trajectoryusing a Duality Gap Approach  
+[G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), __W. Sun__, and [K. Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)    
+2020 International Conference on Robotics and Automation (ICRA)  
+[ Submitted ] 
 
 ### IROS'19
 Time-Optimal Trajectory Generation for Dynamic Vehicles: A Bilevel Optimization Approach  

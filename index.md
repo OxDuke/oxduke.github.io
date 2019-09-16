@@ -23,6 +23,17 @@ Email: [weidong.sun@alumni.duke.edu](mailto:weidong.sun@alumni.duke.edu)
 
 ### Journal & Conferences
 
+<img align="left" src="{{ site.baseurl }}/images/icra20.png" style="float:left;height:120px;width:120px;margin-right: 10px">
+ **Enhancing Bilevel Optimization for UAV Time-Optimal Trajectoryusing a Duality Gap Approach**  
+ [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), **<u> Weidong Sun</u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  
+ ICRA 2020 (Submitted)  
+ [PDF]
+ [Code]
+ [Video]
+ [Slides]
+<div style="clear:both;"></div>
+---
+
 <img align="left" src="{{ site.baseurl }}/images/iros19.png" style="float:left;height:120px;width:120px;margin-right: 10px">
  **Time-Optimal Trajectory Generation for Dynamic Vehicles: A Bilevel Optimization Approach**  
  [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, **<u> Weidong Sun<sup>*</sup></u>**, and [Kris Hauser](https://ece.duke.edu/faculty/kristoffer-hauser)  

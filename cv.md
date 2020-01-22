@@ -58,10 +58,18 @@ __[Wuhan University of Technology](http://english.whut.edu.cn/)__
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Preprint'20
+### ACC'20 
+
+Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients  
+[G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, __W. Sun<sup>*</sup>__, and [K. Hauser](http://kkhauser.web.illinois.edu/)  
+2020 American Control Conference (To appear)  
+[ <span style="color:CornflowerBlue">[PDF](https://arxiv.org/pdf/1811.10753.pdf)</span> ]
+[ <span style="color:CornflowerBlue">[Code](https://github.com/OxDuke/Bilevel-Planner)</span> ]  
+
+### ICRA'20
 Enhancing Bilevel Optimization for UAV Time-Optimal Trajectory using a Duality Gap Approach  
 [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), __W. Sun__, and [K. Hauser](http://kkhauser.web.illinois.edu/)    
-Submitted to 2020 International Conference on Robotics and Automation (ICRA)  
+2020 International Conference on Robotics and Automation (To appear)  
 [ PDF ] 
 
 ### IROS'19
@@ -96,7 +104,6 @@ __W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6q
 IEEE Transactions on Robotics [under reivew]  
 [ <span style="color:CornflowerBlue">[PDF](https://arxiv.org/pdf/1811.10753.pdf)</span> ]
 [ <span style="color:CornflowerBlue">[Code](https://github.com/OxDuke/Bilevel-Planner)</span> ]  
-
 
 ### IROS'18
 [Learning Trajectories for Real-Time Optimal Control of Quadrotors](http://motion.pratt.duke.edu/papers/IROS2018-Tang-LearningOptimalControl.pdf)  

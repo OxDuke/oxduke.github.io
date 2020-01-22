@@ -61,7 +61,7 @@ __[Wuhan University of Technology](http://english.whut.edu.cn/)__
 ### ACC'20 
 
 Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients  
-[G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, __W. Sun<sup>*</sup>__, and [K. Hauser](http://kkhauser.web.illinois.edu/)  
+__W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [K. Hauser](http://kkhauser.web.illinois.edu/)  
 2020 American Control Conference (To appear)  
 [ <span style="color:CornflowerBlue">[PDF](https://arxiv.org/pdf/1811.10753.pdf)</span> ]
 [ <span style="color:CornflowerBlue">[Code](https://github.com/OxDuke/Bilevel-Planner)</span> ]  

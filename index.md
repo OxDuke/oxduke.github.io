@@ -25,7 +25,7 @@ Email: [weidong.sun@alumni.duke.edu](mailto:weidong.sun@alumni.duke.edu)
 
 <img align="left" src="{{ site.baseurl }}/images/tro.png" style="float:left;height:120px;width:120px;margin-right: 10px">
  **Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients**  
- [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, **<u> Weidong Sun<sup>*</sup></u>**, and [Kris Hauser](http://kkhauser.web.illinois.edu/)  
+ **<u> Weidong Sun<sup>*</sup></u>**, [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, and [Kris Hauser](http://kkhauser.web.illinois.edu/)  
  ACC 2020 (To appear)  
 <!--  [[PDF](https://arxiv.org/pdf/1811.10753.pdf)]
  [[Code](https://github.com/OxDuke/Bilevel-Planner)]

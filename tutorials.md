@@ -10,6 +10,8 @@ A collection of tutorials/books/reading lists/courses that might help.
 		* [Stephane Caron's tutorials on Robotics](https://scaron.info/category/teaching.html).
 		* [Shuo Yang's tutorial on Robotics](https://zhuanlan.zhihu.com/p/22266788).
 		* [GitBook: How to learn Robotics](https://qiu6401.gitbook.io/how-to-learn-robotics/).
+	* Mini Tutorials
+	    * [Crash course on Lie theory](https://arxiv.org/abs/1812.01537).
 	* Tools
 		* [A great tutorial for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 	

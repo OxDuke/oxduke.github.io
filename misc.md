@@ -9,7 +9,7 @@ A collection of thoughts / ideas.
 
 
 ## Tools
-- A user-friendly [Python profiler](https://julien.danjou.info/guide-to-python-profiling-cprofile-concrete-case-carbonara/) using cProfile.
+- A user-friendly [Python profiler](https://julien.danjou.info/guide-to-python-profiling-cprofile-concrete-case-carbonara/) using cProfile & KCacheGrind.
 
 
 ## Music

@@ -14,6 +14,19 @@ A collection of tutorials/books/reading lists/courses that might help.
 	    * [Crash course on Lie theory](https://arxiv.org/abs/1812.01537).
 	* Tools
 		* [A great tutorial for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
+
+- Blogs
+	* Steve LaValle's [website](http://lavalle.pl/).
+
+- Conference Proceedings
+	* [RSS](http://www.roboticsproceedings.org/)
+	* ICRA: [[2020]](https://github.com/PaoPaoRobot/ICRA2020-paper-list) [[2019]](https://github.com/PaoPaoRobot/ICRA2019-paper-list)
+	* IROS: [[2019]](https://github.com/PaoPaoRobot/IROS2019-paper-list)
+
+- Software
+    * [Klampt](http://motion.cs.illinois.edu/klampt/)
+    * [OMPL](https://ompl.kavrakilab.org/index.html)
+    * [DART](https://dartsim.github.io/)
 	
 - Courses:
     * [Course of Study from CMU](https://www.ri.cmu.edu/wp-content/uploads/2018/08/COSAug2018.pdf)
@@ -36,19 +49,17 @@ A collection of tutorials/books/reading lists/courses that might help.
 
 - Thesis
 	PhD/Master thesis tend to be very good portals to a specific research topics. Here is a collection of what might help.
-	* OSQP is a pretty fast QP solver, which is also a good application of the ADMM algorithm
-	[ADMM]
+	* [OSQP](https://osqp.org/) is a pretty fast QP solver, which is also a good application of the [ADMM](https://stanford.edu/~boyd/admm.html) algorithm.
 	* [ECOS](https://www.research-collection.ethz.ch/handle/20.500.11850/74559), an embedded interior-point solver.
 
 - Surveys
 	* [An introduction on mixed-integer nonlinear optimization](https://www.mcs.anl.gov/papers/P3060-1112.pdf) by Pietro Belotti et al..
 
 - Reading Lists
-	* [Readling list on manipulation](https://nima-fazeli.github.io/Reading%20List/) by Nima Frazeli.
-	* [Reading list on manipulation](https://mp.weixin.qq.com/s/S6TvqppQHQ6RFmb-_wVkGA) by Jiaji Zhou.
+	* [On manipulation](https://nima-fazeli.github.io/Reading%20List/) by Nima Frazeli.
+	* [On manipulation](https://mp.weixin.qq.com/s/S6TvqppQHQ6RFmb-_wVkGA) by Jiaji Zhou.
 
 - Technical Writing
 	* [Common Errors in Technical Writing](https://www.ece.ucdavis.edu/~jowens/commonerrors.html) by John Owens.
 	* [LaTex Templates](https://github.com/OxDuke/latex_templates) by [Stephen Boyd](http://web.stanford.edu/~boyd/).
 	* [Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf) by Kunth et al..
-

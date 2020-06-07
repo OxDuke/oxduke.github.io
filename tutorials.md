@@ -14,6 +14,14 @@ A collection of tutorials/books/reading lists/courses that might help.
 	    * [Crash course on Lie theory](https://arxiv.org/abs/1812.01537).
 	* Tools
 		* [A great tutorial for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
+
+- Blogs
+	* 
+
+- Conference Proceedings
+	* RSS:
+	* ICRA
+	* IROS:
 	
 - Courses:
     * [Course of Study from CMU](https://www.ri.cmu.edu/wp-content/uploads/2018/08/COSAug2018.pdf)

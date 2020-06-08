@@ -37,13 +37,10 @@ Email: [weidong.sun@alumni.duke.edu](mailto:weidong.sun@alumni.duke.edu)
 <img align="left" src="{{ site.baseurl }}/images/icra20.png" style="float:left;height:120px;width:120px;margin-right: 10px">
  **Enhancing Bilevel Optimization for UAV Time-Optimal Trajectory using a Duality Gap Approach**  
  [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), **<u> Weidong Sun</u>**, and [Kris Hauser](http://kkhauser.web.illinois.edu/)  
- ICRA 2020 (To appear)  
-<!--
- [PDF]
- [Code]
- [Video]
- [Slides]
--->
+ ICRA 2020  
+ [[PDF](http://motion.cs.illinois.edu/papers/ICRA2020-Tang-DroneBilevel.pdf)]
+ [[Video](https://www.youtube.com/watch?v=qN2zXl7lxiU&feature=youtu.be)]
+ <!-- [Code] [Slides] -->
 <div style="clear:both;"></div>
 ---
 

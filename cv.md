@@ -10,30 +10,9 @@ Robot enthusiast.
 | <a href="https://oxduke.github.io/">Portfolio</a>
 </div>
 
-<!--
-## Will be
-
-Robotics engineer at [XYZ Robotics Inc](https://www.xyzrobotics.ai/), Shanghai.
-
 ## Currently
 
-Graduate research assistant at the [Intelligent Motion Laboratory](http://motion.pratt.duke.edu/). 
-
--->
-<!--
-### Specialized in
-
-motion planning, optimal control
-
-
-// ### Research interests
-
-// Cooling, power series, optics, alchemy, planetary motions, apples.
--->
-
-## Currently
-
-Working at [XYZ Robotics Inc](https://www.xyzrobotics.ai/).
+Motion Planning Engineer at [XYZ Robotics Inc](https://www.xyzrobotics.ai/).
 
 ## Education
 

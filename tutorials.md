@@ -15,8 +15,9 @@ A collection of tutorials/books/reading lists/courses that might help.
 	* Tools
 		* [A great tutorial for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
-- Blogs
+- Websites
 	* Steve LaValle's [website](http://lavalle.pl/).
+	* Arkadi Nemirovski is a big name in the convex optimization community. His [website](https://www2.isye.gatech.edu/~nemirovs/) has some amazing contents including books and lecture notes on convex optimizations. I think his [book](https://www2.isye.gatech.edu/~nemirovs/lmco_run.pdf) and [lecture notes](https://www2.isye.gatech.edu/~nemirovs/LMCOLN2020WithSol.pdf) on modern convex optimization is brilliantly unique and helpful. I am currently going through the lecture notes.
 
 - Conference Proceedings
 	* [RSS](http://www.roboticsproceedings.org/)
@@ -63,3 +64,32 @@ A collection of tutorials/books/reading lists/courses that might help.
 	* [Common Errors in Technical Writing](https://www.ece.ucdavis.edu/~jowens/commonerrors.html) by John Owens.
 	* [LaTex Templates](https://github.com/OxDuke/latex_templates) by [Stephen Boyd](http://web.stanford.edu/~boyd/).
 	* [Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf) by Kunth et al..
+
+## Miscellaneous things sorted by subjects
+
+Here I would like to keep a list of references not directly related to Robotics but lay the foundation of, or at least somewhat related to the algorithmic aspect of Robotics. I am still working on this part.
+
+### Optimization
+
+- Dimitri Bertsekas has a ton of amazing books and papers, but quite unfortunately I am not quite a fan of his style.
+
+#### Convex Optimization
+
+- See [Convex Optimization](https://www.amazon.com/Convex-Optimization-Corrections-2008-Stephen/dp/0521833787/ref=sr_1_1?keywords=convex+optimization&qid=1555876044&s=gateway&sr=8-1) [[PDF](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)] by S. Boyd and L. Vandenberghe for a basic overview of convex optimization. The book is clearly written and well understandable. It also has lecture videos that can be easily found on Youtube, which is a delight to watch.
+
+- Beyond the basics, here are a few of my interests: distributed optimization, optimization on non-smooth and non-differentiable convex problems and high-speed solver implementations.
+
+- [Proximal Algorithms](https://web.stanford.edu/~boyd/papers/pdf/prox_algs.pdf) by Neal Parikh and Stephen Boyd.
+
+- ADMM is an old algorithm and has seen a recent revival probably due to the need for large-scale distributed optimization. See [Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers](https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf) by S. Boyd et al. for a modern introduction. A talk by Boyd: [link](https://www.youtube.com/watch?v=Xg0ozgCXXB8&ab_channel=MicrosoftResearch).
+
+#### Nonlinear Optimization
+
+- See [Numerical Optimization](https://www.amazon.com/Numerical-Optimization-Operations-Financial-Engineering/dp/0387303030/ref=sr_1_1?keywords=numerical+optimization&qid=1555876008&s=gateway&sr=8-1) by J. Nocedal and Wright for an overview of the general optimization.
+
+### Game Physics
+
+### Computer Graphics
+I am a completely freshly green new babie to the CG world, I would like to keep a list of things that helped me the most during my CG journey.
+
+

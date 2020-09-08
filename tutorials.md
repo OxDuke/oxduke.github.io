@@ -67,7 +67,14 @@ A collection of tutorials/books/reading lists/courses that might help.
 
 ## Miscellaneous things sorted by subjects
 
-Here I would like to keep a list of references not directly related to Robotics but lay the foundation of, or at least somewhat related to the algorithmic aspect of Robotics. I am still working on this part.
+Here I would like to keep a list of references not directly related to Robotics but lay the foundation of, or at least somewhat related to the algorithmic aspect of Robotics. This list will be updated irregularly.
+
+### Numerical methods
+- [Numerical Linear Algebra](https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617/ref=sr_1_1?dchild=1&keywords=numerical+linear+algebra&qid=1599564453&sr=8-1) by Trefethen and Bau is my go-to textbook on dense linear algebra solvers.
+
+- [Direct Methods for Sparse Linear Systems](https://my.siam.org/Store/Product/viewproduct/?ProductId=842) by Tim Davis is my go-to reference on sparse linear algebra solvers. 
+
+- I have had the pleasure to read [Lloyd N. Trefethen](http://people.maths.ox.ac.uk/trefethen/)'s [Approximation Theory and Approximation Practice](https://my.siam.org/Store/Product/viewproduct/?ProductId=31254869) and [Exploring ODEs](http://people.maths.ox.ac.uk/trefethen/Exploring.pdf). I would give my full recommendation to those who found the topics interesting.
 
 ### Optimization
 
@@ -82,6 +89,8 @@ Here I would like to keep a list of references not directly related to Robotics 
 - [Proximal Algorithms](https://web.stanford.edu/~boyd/papers/pdf/prox_algs.pdf) by Neal Parikh and Stephen Boyd.
 
 - ADMM is an old algorithm and has seen a recent revival probably due to the need for large-scale distributed optimization. See [Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers](https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf) by S. Boyd et al. for a modern introduction. A talk by Boyd: [link](https://www.youtube.com/watch?v=Xg0ozgCXXB8&ab_channel=MicrosoftResearch).
+
+- There is a new book (as of September, 2020) coming up dealing with convex optimization: [Algorithms for Convex Optimization](https://convex-optimization.github.io/) by Nisheeth K. Vishnoi. I will take some time to go through the book. The author also has some interesting [blogs](https://nisheethvishnoi.wordpress.com/).
 
 #### Nonlinear Optimization
 

@@ -17,6 +17,15 @@ Email: [weidong.sun@alumni.duke.edu](mailto:weidong.sun@alumni.duke.edu)
 
 <div style="clear:both;"></div>
 
+## What I do
+**Motion Planning for Robot Arms:**  
+<!-- <br> -->
+<img align="left" src="{{ site.baseurl }}/images/wopt.gif" style="float:left;height:300px;width:auto;margin-left:50px; margin-right:auto;">
+
+
+<div style="clear:both;"></div>
+
+
 ## Publications 
 
 \* Denotes equal contribution.
@@ -26,7 +35,9 @@ Email: [weidong.sun@alumni.duke.edu](mailto:weidong.sun@alumni.duke.edu)
 <img align="left" src="{{ site.baseurl }}/images/tro.png" style="float:left;height:120px;width:120px;margin-right: 10px">
  **Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients**  
  **<u> Weidong Sun<sup>*</sup></u>**, [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, and [Kris Hauser](http://kkhauser.web.illinois.edu/)  
- ACC 2020 (To appear)  
+ ACC 2020  
+ [[PDF](http://motion.cs.illinois.edu/papers/ACC2020-Sun-DroneBilevel.pdf)]
+ [[Code](https://github.com/OxDuke/Bilevel-Planner)]
 <!--  [[PDF](https://arxiv.org/pdf/1811.10753.pdf)]
  [[Code](https://github.com/OxDuke/Bilevel-Planner)]
  [Video]

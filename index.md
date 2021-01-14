@@ -20,7 +20,19 @@ Email: [weidong.sun@alumni.duke.edu](mailto:weidong.sun@alumni.duke.edu)
 ## What I do
 **Motion Planning for Robot Arms:**  
 <!-- <br> -->
-<img align="left" src="{{ site.baseurl }}/images/wopt.gif" style="float:left;height:300px;width:auto;margin-left:50px; margin-right:auto;">
+<!-- <img align="left" src="{{ site.baseurl }}/images/wopt.gif" style="float:left;height:300px;width:auto;margin-left:50px; margin-right:auto;">
+<img align="left" src="{{ site.baseurl }}/images/wopt_cart.gif" style="float:left;height:300px;width:auto;margin-left:50px; margin-right:auto;"> -->
+
+<div style="display:table;clear: both;">
+  <div style="float:left;padding:5px;text-align:center;">
+    <img src="{{ site.baseurl }}/images/wopt.gif" alt="Italy" style="height:280px;width:auto">
+    <p>Without Cartesian Constraint</p>
+  </div>
+  <div style="float:left;padding:5px;text-align:center;">
+    <img src="{{ site.baseurl }}/images/wopt_cart.gif" alt="Forest" style="height:280px;width:auto">
+    <p>With Cartesian Constraint</p>
+  </div>
+</div>
 
 
 <div style="clear:both;"></div>

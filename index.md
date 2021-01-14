@@ -26,11 +26,11 @@ Email: [weidong.sun@alumni.duke.edu](mailto:weidong.sun@alumni.duke.edu)
 <div style="display:table; clear:both; margin:0 auto;">
   <div style="float:left; padding:2px; text-align:center;">
     <img src="{{ site.baseurl }}/images/wopt.gif" alt="RobotMoves" style="height:260px; width:auto">
-    <p>Without Cartesian Constraint</p>
+    <p>Without Cartesian constraint</p>
   </div>
   <div style="float:left; padding:2px; text-align:center;">
     <img src="{{ site.baseurl }}/images/wopt_cart.gif" alt="RobotMovesAgain" style="height:260px; width:auto">
-    <p>With Cartesian Constraint</p>
+    <p>With Cartesian constraint</p>
   </div>
 </div>
 

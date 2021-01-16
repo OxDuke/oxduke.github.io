@@ -22,7 +22,7 @@ A collection of tutorials/books/reading lists/courses that might help.
 - Conference Proceedings
 	* [RSS](http://www.roboticsproceedings.org/)
 	* ICRA: [[2020]](https://github.com/PaoPaoRobot/ICRA2020-paper-list) [[2019]](https://github.com/PaoPaoRobot/ICRA2019-paper-list)
-	* IROS: [[2019]](https://github.com/PaoPaoRobot/IROS2019-paper-list)
+	* IROS: [[2020]](https://github.com/PaoPaoRobot/IROS2020-paper-list) [[2019]](https://github.com/PaoPaoRobot/IROS2019-paper-list)
 
 - Software
     * [Klampt](http://motion.cs.illinois.edu/klampt/)

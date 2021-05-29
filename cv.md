@@ -37,24 +37,37 @@ __[Wuhan University of Technology](http://english.whut.edu.cn/)__
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
+### T-RO'21 
+
+Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients  
+__W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [K. Hauser](http://kkhauser.web.illinois.edu/)  
+2021 IEEE Transactions on Robotics [To appear]  
+[ <span style="color:CornflowerBlue">[PDF](https://arxiv.org/pdf/1811.10753.pdf)</span> ]
+[ <span style="color:CornflowerBlue">[Code](https://github.com/OxDuke/Bilevel-Planner)</span> ]  
+
 ### ACC'20 
 
 Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients  
 __W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [K. Hauser](http://kkhauser.web.illinois.edu/)  
-2020 American Control Conference (To appear)  
-[ <span style="color:CornflowerBlue">[PDF](https://arxiv.org/pdf/1811.10753.pdf)</span> ]
+2020 American Control Conference  
+[ <span style="color:CornflowerBlue">[IEEE](https://ieeexplore.ieee.org/document/9147300)</span> ]
+[ <span style="color:CornflowerBlue">[PDF](http://motion.cs.illinois.edu/papers/ACC2020-Sun-DroneBilevel.pdf)</span> ]
 [ <span style="color:CornflowerBlue">[Code](https://github.com/OxDuke/Bilevel-Planner)</span> ]  
 
 ### ICRA'20
 Enhancing Bilevel Optimization for UAV Time-Optimal Trajectory using a Duality Gap Approach  
 [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ), __W. Sun__, and [K. Hauser](http://kkhauser.web.illinois.edu/)    
-2020 International Conference on Robotics and Automation (To appear)  
-[ PDF ] 
+2020 International Conference on Robotics and Automation  
+[ <span style="color:CornflowerBlue">[IEEE](https://ieeexplore.ieee.org/document/9196789)</span> ]
+[ <span style="color:CornflowerBlue">[PDF](https://motion.cs.illinois.edu/papers/ICRA2020-Tang-DroneBilevel.pdf)</span> ]
+[ <span style="color:CornflowerBlue">[Video](https://www.youtube.com/watch?v=4IBZRqrnrrs&ab_channel=IntelligentMotionLab)</span> ]
+
 
 ### IROS'19
 Time-Optimal Trajectory Generation for Dynamic Vehicles: A Bilevel Optimization Approach  
 [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, __W. Sun<sup>*</sup>__, and [K. Hauser](http://kkhauser.web.illinois.edu/)    
 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems  
+[ <span style="color:CornflowerBlue">[IEEE](https://ieeexplore.ieee.org/document/8968104)</span> ]
 [ <span style="color:CornflowerBlue">[PDF](http://motion.cs.illinois.edu/papers/IROS2019-Tang-BilevelTrajectoryGeneration.pdf)</span> ]
 
 
@@ -76,13 +89,6 @@ Workshop on <span style="color:green">[Toward Online Optimal Control of Dynamic 
  [ <span style="color:CornflowerBlue">[Poster]({{ site.baseurl }}/publications/ICRA2019_WS2_poster.pdf)</span> ]
  [ <span style="color:CornflowerBlue">[Slides]({{ site.baseurl }}/publications/ICRA2019_WS2_slides.pdf)</span> ]
 
-### Preprint'18 
-
-Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients  
-__W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [K. Hauser](http://kkhauser.web.illinois.edu/)  
-IEEE Transactions on Robotics [under reivew]  
-[ <span style="color:CornflowerBlue">[PDF](https://arxiv.org/pdf/1811.10753.pdf)</span> ]
-[ <span style="color:CornflowerBlue">[Code](https://github.com/OxDuke/Bilevel-Planner)</span> ]  
 
 ### IROS'18
 [Learning Trajectories for Real-Time Optimal Control of Quadrotors](http://motion.pratt.duke.edu/papers/IROS2018-Tang-LearningOptimalControl.pdf)  
@@ -90,7 +96,6 @@ IEEE Transactions on Robotics [under reivew]
 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems  
 [ <span style="color:CornflowerBlue">[PDF](http://motion.pratt.duke.edu/papers/IROS2018-Tang-LearningOptimalControl.pdf)</span> ]
 [ <span style="color:CornflowerBlue">[Video](https://www.youtube.com/watch?v=h0yY0sAGzwk)</span> ]
-[ Slides ]
 
 
 ## Code

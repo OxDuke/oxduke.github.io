@@ -13,4 +13,5 @@ A collection of thoughts / ideas.
 
 
 ## Music
+- Very recent [Notes](https://www.esm.rochester.edu/beethoven/) on Beethoven's symphonies from the Eastman School of Music.
 - [Notes](http://www.classicalnotes.net/classics4/beethovenseventh.html) on Beethoven's symphony No.7.

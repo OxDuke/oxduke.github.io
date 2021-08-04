@@ -12,7 +12,7 @@ Robot enthusiast.
 
 ## Currently
 
-Motion Planning Engineer at [XYZ Robotics Inc](https://www.xyzrobotics.ai/).
+Robotics Engineer at [XYZ Robotics Inc](https://www.xyzrobotics.ai/).
 
 ## Education
 

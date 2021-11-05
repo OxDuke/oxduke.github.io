@@ -7,7 +7,7 @@ Robot enthusiast.
 
 <div id="webaddress">
 <a href="mailto:weidong.sun@alumni.duke.edu">weidong.sun@alumni.duke.edu</a>
-| <a href="https://oxduke.github.io/">Portfolio</a>
+| <a href="https://www.weidongsun.com">www.weidongsun.com</a>
 </div>
 
 ## Currently

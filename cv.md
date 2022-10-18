@@ -3,15 +3,17 @@ layout: cv
 title: CV
 ---
 # Weidong Sun
-Robot enthusiast.
+Robot enthusiast.  
+Last updated on Oct. 2022
 
 <div id="webaddress">
 <a href="mailto:weidong.sun@alumni.duke.edu">weidong.sun@alumni.duke.edu</a>
 | <a href="https://www.weidongsun.com">www.weidongsun.com</a>
 </div>
 
-## Currently
+## Job
 
+`Aug. 2019 - Now`
 Robotics Engineer at [XYZ Robotics Inc](https://www.xyzrobotics.ai/).
 
 ## Education
@@ -42,6 +44,7 @@ __[Wuhan University of Technology](http://english.whut.edu.cn/)__
 Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients  
 __W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [K. Hauser](http://kkhauser.web.illinois.edu/)  
 2021 IEEE Transactions on Robotics [To appear]  
+__[Winner of the TC on Model-Based Optimization for Robotics Best Paper Award 2021](https://www.ieee-ras.org/model-based-optimization-for-robotics/362-news/news-tc-on-model-based-optimization-for-robotics/1964-ieee-ras-tc-on-model-based-optimization-for-robotics-best-paper-award-2021)__  
 [ <span style="color:CornflowerBlue">[PDF](https://arxiv.org/pdf/1811.10753.pdf)</span> ]
 [ <span style="color:CornflowerBlue">[Code](https://github.com/OxDuke/Bilevel-Planner)</span> ]  
 

@@ -92,6 +92,8 @@ Here I would like to keep a list of references not directly related to Robotics 
 
 - There is a new book (as of September, 2020) coming up dealing with convex optimization: [Algorithms for Convex Optimization](https://convex-optimization.github.io/) by Nisheeth K. Vishnoi. I will take some time to go through the book. The author also has some interesting [blogs](https://nisheethvishnoi.wordpress.com/).
 
+- [Here](https://math.stackexchange.com/questions/223235/please-explain-the-intuition-behind-the-dual-problem-in-optimization) is a very nice explanation on the intuition of the dual problem. It is in fact the first tutorial I have seen that clearly presents what dual problem is in plain English, in constratry to tons of mathematical formulae.
+
 #### Nonlinear Optimization
 
 - See [Numerical Optimization](https://www.amazon.com/Numerical-Optimization-Operations-Financial-Engineering/dp/0387303030/ref=sr_1_1?keywords=numerical+optimization&qid=1555876008&s=gateway&sr=8-1) by J. Nocedal and Wright for an overview of the general optimization.

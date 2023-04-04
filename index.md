@@ -50,7 +50,7 @@ Email: [weidong.sun@alumni.duke.edu](mailto:weidong.sun@alumni.duke.edu)
  IEEE Transactions on Robotics 2021  
 __[Winner of the Best Paper Award 2021 from  
 TC on Model-Based Optimization for Robotics](https://www.ieee-ras.org/model-based-optimization-for-robotics/362-news/news-tc-on-model-based-optimization-for-robotics/1964-ieee-ras-tc-on-model-based-optimization-for-robotics-best-paper-award-2021)__  
- [[IEEE](https://ieeexplore.ieee.org/document/9147300)]
+ [[IEEE](https://ieeexplore.ieee.org/document/9457044)]
  [[PDF](https://arxiv.org/pdf/1811.10753.pdf)]
  [[Code](https://github.com/OxDuke/Bilevel-Planner)]
 <!--  [Video]

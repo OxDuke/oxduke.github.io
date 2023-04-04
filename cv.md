@@ -45,7 +45,7 @@ Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Grad
 __W. Sun<sup>*</sup>__, [G. Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>\*</sup>, and [K. Hauser](http://kkhauser.web.illinois.edu/)  
 2021 IEEE Transactions on Robotics  
 __[Winner of the TC on Model-Based Optimization for Robotics Best Paper Award 2021](https://www.ieee-ras.org/model-based-optimization-for-robotics?view=article&id=1993:tc-on-model-based-optimization-for-robotics-best-paper-award-2021&catid=362)__  
-[ <span style="color:CornflowerBlue">[IEEE](https://ieeexplore.ieee.org/document/9147300)</span> ]
+[ <span style="color:CornflowerBlue">[IEEE](https://ieeexplore.ieee.org/document/9457044)</span> ]
 [ <span style="color:CornflowerBlue">[PDF](https://arxiv.org/pdf/1811.10753.pdf)</span> ]
 [ <span style="color:CornflowerBlue">[Code](https://github.com/OxDuke/Bilevel-Planner)</span> ]  
 

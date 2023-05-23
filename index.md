@@ -8,7 +8,7 @@ title: About
 <img align="left" src="{{ site.baseurl }}/images/me3.jpeg" style="float:left;height:200px;width:200px;border-radius: 10%;margin-top: 10px;margin-bottom: 10px;margin-right: 20px">
 
 I work on planning and controls for autonomous vehicles at [WeRide.ai](https://www.weride.ai/). 
-Previously, I work on motion planning for industrial robot arms at [XYZ Robotics Inc](https://www.xyzrobotics.ai/). 
+Previously, I work on motion planning for industrial robot arms at [XYZ Robotics Inc](https://www.xyzrobotics.com/). 
 
 I received the M.Eng. degree from [Duke University](https://www.duke.edu/), where I did research on motion planning and optimal control at the [Intelligent Motion Laboratory](http://motion.pratt.duke.edu/). 
 I received my B.Eng. degree from [Wuhan University of Technology](http://english.whut.edu.cn/).

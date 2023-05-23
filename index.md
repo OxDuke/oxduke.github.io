@@ -49,8 +49,8 @@ Email: [weidong.sun@alumni.duke.edu](mailto:weidong.sun@alumni.duke.edu)
  **<u> Weidong Sun<sup>*</sup></u>**, [Gao Tang](https://scholar.google.com/citations?user=sn6qxpQAAAAJ)<sup>*</sup>, and [Kris Hauser](http://kkhauser.web.illinois.edu/)  
  IEEE Transactions on Robotics 2021  
 __[Winner of the Best Paper Award 2021 from  
-TC on Model-Based Optimization for Robotics](https://www.ieee-ras.org/model-based-optimization-for-robotics/362-news/news-tc-on-model-based-optimization-for-robotics/1964-ieee-ras-tc-on-model-based-optimization-for-robotics-best-paper-award-2021)__  
- [[IEEE](https://ieeexplore.ieee.org/document/9147300)]
+TC on Model-Based Optimization for Robotics](https://www.ieee-ras.org/model-based-optimization-for-robotics?view=article&id=1993:tc-on-model-based-optimization-for-robotics-best-paper-award-2021&catid=362)__  
+ [[IEEE](https://ieeexplore.ieee.org/document/9457044)]
  [[PDF](https://arxiv.org/pdf/1811.10753.pdf)]
  [[Code](https://github.com/OxDuke/Bilevel-Planner)]
 <!--  [Video]

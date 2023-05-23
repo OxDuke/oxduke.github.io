@@ -69,6 +69,14 @@ A collection of tutorials/books/reading lists/courses that might help.
 
 Here I would like to keep a list of references not directly related to Robotics but lay the foundation of, or at least somewhat related to the algorithmic aspect of Robotics. This list will be updated irregularly.
 
+### The Art of Communication
+Communication happens everywhere all the time. 
+In his book *Make it Clear*, Patrick H. Winston wrote "Your success likely will be determined by how well you speak, by how well you write, and by the quality of your ideas, in that order."
+
+- [Elements of Style](https://a.co/d/8graxhV): A classic guideline on how to write in English.
+- [Make it Clear](https://a.co/d/2LF7Okf)
+
+
 ### Numerical methods
 - [Numerical Linear Algebra](https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617/ref=sr_1_1?dchild=1&keywords=numerical+linear+algebra&qid=1599564453&sr=8-1) by Trefethen and Bau is my go-to textbook on dense linear algebra solvers.
 

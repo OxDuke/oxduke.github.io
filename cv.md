@@ -13,8 +13,14 @@ Last updated on Apr. 2023
 
 ## Job
 
-`Aug. 2019 - Now`
-Robotics Engineer at [XYZ Robotics Inc](https://www.xyzrobotics.ai/).
+`May 2023 - Now`
+__[WeRide.ai](https://www.weride.ai/)__
+- Planning and Controls Engineer.  
+
+
+`Aug. 2019 - Apr. 2023`
+__[XYZ Robotics Inc](https://www.xyzrobotics.com/)__
+- Robotics Engineer at.  
 
 ## Education
 

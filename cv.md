@@ -4,7 +4,7 @@ title: CV
 ---
 # Weidong Sun
 Robot enthusiast.  
-Last updated on Apr. 2023
+Last updated on May 2023
 
 <div id="webaddress">
 <a href="mailto:me@weidongsun.com">me@weidongsun.com</a>

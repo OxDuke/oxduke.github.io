@@ -20,7 +20,7 @@ __[WeRide.ai](https://www.weride.ai/)__
 
 `Aug. 2019 - Apr. 2023`
 __[XYZ Robotics Inc](https://www.xyzrobotics.com/)__
-- Robotics Engineer at.  
+- Robotics Engineer.  
 
 ## Education
 
